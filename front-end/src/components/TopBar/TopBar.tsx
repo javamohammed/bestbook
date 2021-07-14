@@ -4,7 +4,9 @@ import "./TopBar .css"
 export default function TopBar(): JSX.Element{
     return <div className="top-bar-container">
                 <div className="top-bar-left">
-                    <span className="logo">BestBook</span>
+                    <span className="logo">
+                        <img className="top-bar-left-logo" src="/assets/bestbook.png" alt="" />
+                    </span>
                 </div>
                 <div className="top-bar-center">
                     <div className="search-bar">
