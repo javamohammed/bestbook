@@ -1,0 +1,28 @@
+.profile{
+    display: flex;
+}
+
+.profile-right{
+    flex: 9;
+}
+.profile-right-bottom{
+    display: flex;
+}
+.profile-cover{
+
+}
+.profile-cover-img{
+
+}
+.profile-user-img{
+
+}
+.profile-info{
+
+}
+.profile-info-name{
+
+}
+.profile-info-desc{
+    
+}
