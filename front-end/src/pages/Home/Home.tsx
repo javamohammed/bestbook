@@ -10,7 +10,7 @@ export default  function Home(): JSX.Element {
             <div className="home-container">
                 <SideBar />
                 <Feed />
-                <RightBar />
+                <RightBar home />
             </div>
         </>
 } 

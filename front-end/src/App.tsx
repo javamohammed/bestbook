@@ -1,7 +1,7 @@
-import Profile from "./pages/Profile/Profile";
+import Home from "./pages/Home/Home";
 
 function App(): JSX.Element {
-  return <Profile />
+  return <Home />
 }
 
 export default App;

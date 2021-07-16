@@ -22,7 +22,7 @@ export default  function Profile(): JSX.Element {
                      </div>
                     <div className="profile-right-bottom">
                         <Feed />
-                        <RightBar />
+                        <RightBar profile />
                     </div>
                 </div>
             </div>

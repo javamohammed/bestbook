@@ -33,3 +33,42 @@
     list-style: none;
 }
 
+.right-bar-title{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.right-bar-info{
+    margin-bottom: 30px;
+}
+.right-bar-info-item{
+    margin-bottom: 10px;
+}
+.right-bar-info-key{
+    font-weight: 500;
+    margin-right: 15px;
+    color: #555;
+}  
+.right-bar-info-value {
+    font-weight: 300;
+}
+.right-bar-followings{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.right-bar-following{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.right-bar-following-img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.right-bar-following-name{
+
+}
